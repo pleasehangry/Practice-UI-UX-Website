@@ -1,5 +1,5 @@
 import React from 'react';
-import 'Feature.module.sass';
+import './Feature.module.sass';
 
 const Feature = () => {
     return <div>Feature</div>;

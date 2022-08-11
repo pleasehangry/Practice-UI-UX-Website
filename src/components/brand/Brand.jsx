@@ -1,5 +1,5 @@
 import React from 'react';
-import 'Brand.module.sass';
+import './Brand.module.sass';
 
 const Brand = () => {
     return <div>Brand</div>;
