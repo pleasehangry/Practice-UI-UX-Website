@@ -1,7 +1,7 @@
 .gtp3__brand {
     display: flex;
     flex-wrap: wrap;
-    justify-content: start;
+    justify-content: center;
     align-items: center;
 }
 
